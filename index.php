@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>PHP Test</title>
+  <title>Hello</title>
  </head>
  <body>
- <?php echo '<p>Hello PHP on Openshift</p>'; ?> 
+ <?php echo '<p>Hello World! DevOps@Openshift</p>'; ?> 
  </body>
 </html>
