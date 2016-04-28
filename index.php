@@ -3,6 +3,6 @@
   <title>Hello</title>
  </head>
  <body>
- <?php echo '<p>Hello World! DevOps@Openshift v3</p>'; ?> 
+ <?php echo '<p>Hello World @BNN! </p>'; ?> 
  </body>
 </html>
