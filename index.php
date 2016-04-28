@@ -3,6 +3,6 @@
   <title>Hello</title>
  </head>
  <body>
- <?php echo '<p>Hello World @BNN! - webhook test 1 </p>'; ?> 
+ <?php echo '<p>Hello World @BNN! - webhook test 2 </p>'; ?> 
  </body>
 </html>
