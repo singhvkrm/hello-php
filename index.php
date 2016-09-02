@@ -3,6 +3,6 @@
   <title>Hello</title>
  </head>
  <body>
- <?php echo '<p>Hello World @BNN! - webhook test 2 </p>'; ?> 
+ <?php echo '<p>Hello Openshift </p>'; ?> 
  </body>
 </html>
