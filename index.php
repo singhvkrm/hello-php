@@ -3,6 +3,6 @@
   <title>Hello</title>
  </head>
  <body>
- <?php echo '<center><h6> Hello Openshift at Halden</h6></center>'; ?> 
+ <?php echo '<center><font size="28">Hello Openshift at Halden</font></center>'; ?> 
  </body>
 </html>
